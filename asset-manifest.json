@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/cgsgennie/static/css/main.8eba6cbd.css",
+    "main.js": "/cgsgennie/static/js/main.c3f8fb77.js",
+    "static/js/787.620201d2.chunk.js": "/cgsgennie/static/js/787.620201d2.chunk.js",
+    "static/media/logowithname.jpg": "/cgsgennie/static/media/logowithname.e687c26903cb32b70596.jpg",
+    "static/media/homeicon.png": "/cgsgennie/static/media/homeicon.e817d260fb8b52519507.png",
+    "index.html": "/cgsgennie/index.html",
+    "main.8eba6cbd.css.map": "/cgsgennie/static/css/main.8eba6cbd.css.map",
+    "main.c3f8fb77.js.map": "/cgsgennie/static/js/main.c3f8fb77.js.map",
+    "787.620201d2.chunk.js.map": "/cgsgennie/static/js/787.620201d2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8eba6cbd.css",
+    "static/js/main.c3f8fb77.js"
+  ]
+}

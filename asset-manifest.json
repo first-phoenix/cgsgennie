@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/cgsgennie/static/css/main.eb34e3cb.css",
-    "main.js": "/cgsgennie/static/js/main.20bb1cf0.js",
+    "main.css": "/cgsgennie/static/css/main.58ba4fb4.css",
+    "main.js": "/cgsgennie/static/js/main.1d86ba1e.js",
     "static/js/787.1b1cd7c6.chunk.js": "/cgsgennie/static/js/787.1b1cd7c6.chunk.js",
     "static/media/industrypic2.png": "/cgsgennie/static/media/industrypic2.66dd85a22f40a125d5d8.png",
     "static/media/login-user.png": "/cgsgennie/static/media/login-user.03dc246993d84171d2da.png",
@@ -10,13 +10,15 @@
     "static/media/homeicon.png": "/cgsgennie/static/media/homeicon.e817d260fb8b52519507.png",
     "static/media/log-in.png": "/cgsgennie/static/media/log-in.489e60125f06d5f0bbe8.png",
     "static/media/logo.jpg": "/cgsgennie/static/media/logo.e4aac3e5012d4ce24a04.jpg",
+    "static/media/WelcomeAvatar.jpg": "/cgsgennie/static/media/WelcomeAvatar.8f17104fa334b5316e02.jpg",
+    "static/media/click-here.png": "/cgsgennie/static/media/click-here.79925b9ee9c0c596dbee.png",
     "index.html": "/cgsgennie/index.html",
-    "main.eb34e3cb.css.map": "/cgsgennie/static/css/main.eb34e3cb.css.map",
-    "main.20bb1cf0.js.map": "/cgsgennie/static/js/main.20bb1cf0.js.map",
+    "main.58ba4fb4.css.map": "/cgsgennie/static/css/main.58ba4fb4.css.map",
+    "main.1d86ba1e.js.map": "/cgsgennie/static/js/main.1d86ba1e.js.map",
     "787.1b1cd7c6.chunk.js.map": "/cgsgennie/static/js/787.1b1cd7c6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.eb34e3cb.css",
-    "static/js/main.20bb1cf0.js"
+    "static/css/main.58ba4fb4.css",
+    "static/js/main.1d86ba1e.js"
   ]
 }

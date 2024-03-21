@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/cgsgennie/static/css/main.58ba4fb4.css",
-    "main.js": "/cgsgennie/static/js/main.1d86ba1e.js",
+    "main.js": "/cgsgennie/static/js/main.6658dbf4.js",
     "static/js/787.1b1cd7c6.chunk.js": "/cgsgennie/static/js/787.1b1cd7c6.chunk.js",
     "static/media/industrypic2.png": "/cgsgennie/static/media/industrypic2.66dd85a22f40a125d5d8.png",
     "static/media/login-user.png": "/cgsgennie/static/media/login-user.03dc246993d84171d2da.png",
@@ -14,11 +14,11 @@
     "static/media/click-here.png": "/cgsgennie/static/media/click-here.79925b9ee9c0c596dbee.png",
     "index.html": "/cgsgennie/index.html",
     "main.58ba4fb4.css.map": "/cgsgennie/static/css/main.58ba4fb4.css.map",
-    "main.1d86ba1e.js.map": "/cgsgennie/static/js/main.1d86ba1e.js.map",
+    "main.6658dbf4.js.map": "/cgsgennie/static/js/main.6658dbf4.js.map",
     "787.1b1cd7c6.chunk.js.map": "/cgsgennie/static/js/787.1b1cd7c6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.58ba4fb4.css",
-    "static/js/main.1d86ba1e.js"
+    "static/js/main.6658dbf4.js"
   ]
 }

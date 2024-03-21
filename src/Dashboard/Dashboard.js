@@ -1,11 +1,14 @@
 import React from 'react';
 import './Dashboard.css';
+import userAvatar from '../Assets/WelcomeAvatar.jpg'
+import logoImage from '../Assets/logo.jpg'
 
 function Dashboard() {
   return (
-    <div>
+    <div className='dashboardwrapper'>
       {/* Avatar image */}
-      <img src="https://cdn2.f-cdn.com/contestentries/1440473/30778261/5bdd02db9ff4c_thumb900.jpg" alt="Avatar" />
+      <img src={logoImage} alt='logo' className='logo'></img>
+      <img src={userAvatar} alt="Avatar" className='avatarImage' />
 
       <div>
         <h2>Jane Johnson</h2>
@@ -29,7 +32,7 @@ function Dashboard() {
           <tr>
             <td>Quality Control</td>
             <td>
-              <input type="checkbox" defaultChecked />
+              <input type="checkbox"  />
             </td>
           </tr>
           <tr>
@@ -41,13 +44,13 @@ function Dashboard() {
           <tr>
             <td>Portfolio</td>
             <td>
-              <input type="checkbox" defaultChecked />
+              <input type="checkbox" />
             </td>
           </tr>
           <tr>
             <td>Marketing</td>
             <td>
-              <input type="checkbox" defaultChecked />
+              <input type="checkbox" />
             </td>
           </tr>
           <tr>

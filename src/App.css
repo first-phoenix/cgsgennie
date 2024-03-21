@@ -10,7 +10,7 @@
     align-items: center;
     height: 100vh;
     width: 100vw;
-    background: #7902cd;
+    background: linear-gradient(to right, #48006c, #9f00e3);
     /* fallback for old browsers */
     background: -webkit-linear-gradient(to right, #61045F, #AA076B);
     /* Chrome 10-25, Safari 5.1-6 */
@@ -32,6 +32,9 @@
   }
   
   .chatbot {
+    display: flex;
+    justify-content: center;
+    align-items: center;
     width: 75%; /* Adjust as needed for your chatbot width */
     padding: 20px;
     height: 100%;
@@ -39,39 +42,79 @@
   
   
 .react-chatbot-kit-chat-container {
+  /* display: flex;
+  justify-content: center;
+  align-items: center; */
     width: 73vw;
     height: 100%;
 }
 
 .react-chatbot-kit-chat-bot-message {
     margin-left: 10px;
+    box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.5);
 }
 
 .react-chatbot-kit-chat-bot-message {
-    background-color: #61045F;
+    background-color: #4a0461;
     width: 60vw;
 }
 
 .react-chatbot-kit-chat-bot-message-arrow {
-    border-right: 8px solid #61045F;
+    border-right: 8px solid #4a0461;
 }
 
 .react-chatbot-kit-chat-btn-send {
     background-color: #61045F;
 }
 
+.react-chatbot-kit-user-chat-message{
+  margin-right: 10px;
+  box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.2);
+}
+
+.react-chatbot-kit-chat-btn-send{
+  border-radius: 25px;
+  margin: 5px;
+  width: 3em;
+  box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.2);
+
+}
+
+.react-chatbot-kit-chat-btn-send:hover{
+  box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.8);
+
+}
+
+
+.react-chatbot-kit-chat-input{
+  border:none;
+}
+
+.react-chatbot-kit-chat-input-form{
+  border-top: solid #9f00e3;
+}
+
 .CG {
-    background-color: #4e045c;
-    width: 40px;
-    height: 40px;
+    width: auto;
+    height: 50px;
     display: grid;
     place-items: center;
     color: white;
     border-radius: 100%;
   }
 
+.UA {
+  width: auto;
+  height: 50px;
+  display: grid;
+  place-items: center;
+  color: white;
+  border-radius: 100%;
+  box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.15);
+}
+
 .start-btn {
-    background-color: #61045F;
+    background-color: #61045f6b;
     color: white;
     padding: .5rem 1rem;
     border-radius: 999px;
@@ -81,10 +124,10 @@
 }
 
 .measures-btn {
-    background-color: #924191;
+    background-color: #7f4bc0e4;
     color: white;
     padding: .5rem 1rem;
-    border-radius: 25px;
+    border-radius: 15px;
     border: none;
     cursor: pointer;
     margin-left: 3rem;
@@ -102,11 +145,12 @@
 .img-component {
     margin-left: 3rem;
     display: flex; /* Make the container a flex container */
+
 }
 
 .img-container {
-    width: 185px;
-    height: 185px;
+    width: 25vw;
+    height: auto;
     border: 2px solid #61045F;
     overflow: hidden;
     border-radius: 5px;

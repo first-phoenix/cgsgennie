@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/cgsgennie/static/css/main.06c80259.css",
-    "main.js": "/cgsgennie/static/js/main.8ed3a657.js",
+    "main.js": "/cgsgennie/static/js/main.5c4fb214.js",
     "static/js/787.1b1cd7c6.chunk.js": "/cgsgennie/static/js/787.1b1cd7c6.chunk.js",
     "static/media/home-tile4.jpg": "/cgsgennie/static/media/home-tile4.266e7093c19744854193.jpg",
     "static/media/home-tile3.jpg": "/cgsgennie/static/media/home-tile3.9754421cb26833ae2aa9.jpg",
@@ -15,14 +15,15 @@
     "static/media/log-in.png": "/cgsgennie/static/media/log-in.489e60125f06d5f0bbe8.png",
     "static/media/logo.jpg": "/cgsgennie/static/media/logo.e4aac3e5012d4ce24a04.jpg",
     "static/media/WelcomeAvatar.jpg": "/cgsgennie/static/media/WelcomeAvatar.8f17104fa334b5316e02.jpg",
+    "static/media/microphone.png": "/cgsgennie/static/media/microphone.8373d37f6aa4341ae240.png",
     "static/media/click-here.png": "/cgsgennie/static/media/click-here.eaf26d5cd75b7579d432.png",
     "index.html": "/cgsgennie/index.html",
     "main.06c80259.css.map": "/cgsgennie/static/css/main.06c80259.css.map",
-    "main.8ed3a657.js.map": "/cgsgennie/static/js/main.8ed3a657.js.map",
+    "main.5c4fb214.js.map": "/cgsgennie/static/js/main.5c4fb214.js.map",
     "787.1b1cd7c6.chunk.js.map": "/cgsgennie/static/js/787.1b1cd7c6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.06c80259.css",
-    "static/js/main.8ed3a657.js"
+    "static/js/main.5c4fb214.js"
   ]
 }

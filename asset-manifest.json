@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/cgsgennie/static/css/main.7004fef4.css",
+    "main.css": "/cgsgennie/static/css/main.c0bc406c.css",
     "main.js": "/cgsgennie/static/js/main.9f638530.js",
     "static/js/787.7b07f65b.chunk.js": "/cgsgennie/static/js/787.7b07f65b.chunk.js",
     "static/media/home-tile4.jpg": "/cgsgennie/static/media/home-tile4.266e7093c19744854193.jpg",
@@ -24,12 +24,12 @@
     "static/media/click-here.png": "/cgsgennie/static/media/click-here.eaf26d5cd75b7579d432.png",
     "static/media/timeout.png": "/cgsgennie/static/media/timeout.18e59df8116b6900b07c.png",
     "index.html": "/cgsgennie/index.html",
-    "main.7004fef4.css.map": "/cgsgennie/static/css/main.7004fef4.css.map",
+    "main.c0bc406c.css.map": "/cgsgennie/static/css/main.c0bc406c.css.map",
     "main.9f638530.js.map": "/cgsgennie/static/js/main.9f638530.js.map",
     "787.7b07f65b.chunk.js.map": "/cgsgennie/static/js/787.7b07f65b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7004fef4.css",
+    "static/css/main.c0bc406c.css",
     "static/js/main.9f638530.js"
   ]
 }

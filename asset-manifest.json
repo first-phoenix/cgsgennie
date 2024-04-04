@@ -1,11 +1,13 @@
 {
   "files": {
-    "main.css": "/cgsgennie/static/css/main.ff4529ba.css",
-    "main.js": "/cgsgennie/static/js/main.86df9973.js",
+    "main.css": "/cgsgennie/static/css/main.3f12970e.css",
+    "main.js": "/cgsgennie/static/js/main.edee311e.js",
     "static/js/787.7b07f65b.chunk.js": "/cgsgennie/static/js/787.7b07f65b.chunk.js",
     "static/media/home-tile4.jpg": "/cgsgennie/static/media/home-tile4.266e7093c19744854193.jpg",
     "static/media/home-tile3.jpg": "/cgsgennie/static/media/home-tile3.9754421cb26833ae2aa9.jpg",
+    "static/media/HomePageContent1.png": "/cgsgennie/static/media/HomePageContent1.d33f99c56ef24bc74413.png",
     "static/media/role4.jpg": "/cgsgennie/static/media/role4.06258f39fde0fa0343cf.jpg",
+    "static/media/HomePageContent2.png": "/cgsgennie/static/media/HomePageContent2.bfdc9d17c69314f1d3ab.png",
     "static/media/role2.jpg": "/cgsgennie/static/media/role2.8bf1cb83db1be255cc6c.jpg",
     "static/media/home-tile1.jpg": "/cgsgennie/static/media/home-tile1.a44ad2983d2918070468.jpg",
     "static/media/industrypic2.png": "/cgsgennie/static/media/industrypic2.66dd85a22f40a125d5d8.png",
@@ -16,22 +18,23 @@
     "static/media/data-configure.png": "/cgsgennie/static/media/data-configure.cecc6ebcbd9061d0727e.png",
     "static/media/role3.jpg": "/cgsgennie/static/media/role3.e0c9061396a01ef597a9.jpg",
     "static/media/logo.jpg": "/cgsgennie/static/media/logo.3c6727b02ec7131a53f8.jpg",
-    "static/media/logowithname.jpg": "/cgsgennie/static/media/logowithname.e687c26903cb32b70596.jpg",
+    "static/media/logowithname.jpg": "/cgsgennie/static/media/logowithname.3c6727b02ec7131a53f8.jpg",
     "static/media/homeicon.png": "/cgsgennie/static/media/homeicon.e817d260fb8b52519507.png",
     "static/media/log-in.png": "/cgsgennie/static/media/log-in.489e60125f06d5f0bbe8.png",
     "static/media/LogoG.jpg": "/cgsgennie/static/media/LogoG.e4aac3e5012d4ce24a04.jpg",
     "static/media/Accenture_Logo.png": "/cgsgennie/static/media/Accenture_Logo.be56100c4c1edcc8e0be.png",
+    "static/media/chatbotbgright.png": "/cgsgennie/static/media/chatbotbgright.12e4cde16a03556881f9.png",
     "static/media/microphone.png": "/cgsgennie/static/media/microphone.8373d37f6aa4341ae240.png",
     "static/media/click-here.png": "/cgsgennie/static/media/click-here.eaf26d5cd75b7579d432.png",
     "static/media/timeout.png": "/cgsgennie/static/media/timeout.18e59df8116b6900b07c.png",
     "static/media/login-user.png": "/cgsgennie/static/media/login-user.af1db74126f860f197c6.png",
     "index.html": "/cgsgennie/index.html",
-    "main.ff4529ba.css.map": "/cgsgennie/static/css/main.ff4529ba.css.map",
-    "main.86df9973.js.map": "/cgsgennie/static/js/main.86df9973.js.map",
+    "main.3f12970e.css.map": "/cgsgennie/static/css/main.3f12970e.css.map",
+    "main.edee311e.js.map": "/cgsgennie/static/js/main.edee311e.js.map",
     "787.7b07f65b.chunk.js.map": "/cgsgennie/static/js/787.7b07f65b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ff4529ba.css",
-    "static/js/main.86df9973.js"
+    "static/css/main.3f12970e.css",
+    "static/js/main.edee311e.js"
   ]
 }

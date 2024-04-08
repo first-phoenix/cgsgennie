@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/cgsgennie/static/css/main.31c6b7c0.css",
-    "main.js": "/cgsgennie/static/js/main.04adea53.js",
+    "main.css": "/cgsgennie/static/css/main.5100d6ff.css",
+    "main.js": "/cgsgennie/static/js/main.b1cc1675.js",
     "static/js/787.7b07f65b.chunk.js": "/cgsgennie/static/js/787.7b07f65b.chunk.js",
     "static/media/home-tile4.jpg": "/cgsgennie/static/media/home-tile4.266e7093c19744854193.jpg",
     "static/media/home-tile3.jpg": "/cgsgennie/static/media/home-tile3.9754421cb26833ae2aa9.jpg",
@@ -16,10 +16,10 @@
     "static/media/role-configure.png": "/cgsgennie/static/media/role-configure.771c96454be98ef4eca6.png",
     "static/media/role1.jpg": "/cgsgennie/static/media/role1.771c96454be98ef4eca6.jpg",
     "static/media/data-configure.png": "/cgsgennie/static/media/data-configure.cecc6ebcbd9061d0727e.png",
+    "static/media/homeicon.png": "/cgsgennie/static/media/homeicon.4395bf6625070a62617d.png",
     "static/media/role3.jpg": "/cgsgennie/static/media/role3.e0c9061396a01ef597a9.jpg",
     "static/media/logo.jpg": "/cgsgennie/static/media/logo.3c6727b02ec7131a53f8.jpg",
     "static/media/logowithname.jpg": "/cgsgennie/static/media/logowithname.3c6727b02ec7131a53f8.jpg",
-    "static/media/homeicon.png": "/cgsgennie/static/media/homeicon.e817d260fb8b52519507.png",
     "static/media/log-in.png": "/cgsgennie/static/media/log-in.489e60125f06d5f0bbe8.png",
     "static/media/LogoG.jpg": "/cgsgennie/static/media/LogoG.e4aac3e5012d4ce24a04.jpg",
     "static/media/Accenture_Logo.png": "/cgsgennie/static/media/Accenture_Logo.be56100c4c1edcc8e0be.png",
@@ -29,12 +29,12 @@
     "static/media/timeout.png": "/cgsgennie/static/media/timeout.18e59df8116b6900b07c.png",
     "static/media/login-user.png": "/cgsgennie/static/media/login-user.af1db74126f860f197c6.png",
     "index.html": "/cgsgennie/index.html",
-    "main.31c6b7c0.css.map": "/cgsgennie/static/css/main.31c6b7c0.css.map",
-    "main.04adea53.js.map": "/cgsgennie/static/js/main.04adea53.js.map",
+    "main.5100d6ff.css.map": "/cgsgennie/static/css/main.5100d6ff.css.map",
+    "main.b1cc1675.js.map": "/cgsgennie/static/js/main.b1cc1675.js.map",
     "787.7b07f65b.chunk.js.map": "/cgsgennie/static/js/787.7b07f65b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.31c6b7c0.css",
-    "static/js/main.04adea53.js"
+    "static/css/main.5100d6ff.css",
+    "static/js/main.b1cc1675.js"
   ]
 }
